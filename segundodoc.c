@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main() {
-    printf("ArchivoDosEval\n");
+    printf("SegundaEdicion\n");
     return(EXIT_SUCCESS);
 }
